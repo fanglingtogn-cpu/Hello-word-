@@ -1,1 +1,2 @@
 These are my notes about learning GitHub.
+这是我在本地添加的第二条笔记。
